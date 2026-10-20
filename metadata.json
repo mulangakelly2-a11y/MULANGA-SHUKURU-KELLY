@@ -1,0 +1,6 @@
+{
+  "name": "+243MKB - Multiservices Kinshasa",
+  "description": "Site officiel de +243MKB : entreprise multiservices professionnelle à Kinshasa (Gombe). Sécurité, chauffeurs, entretien, traiteur, protocole, beauté et art.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
